@@ -1,0 +1,21 @@
+{
+  "name": "zum-nodes",
+  "version": "0.0.0",
+  "description": "Parse nodes/edges for ZUMScore",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fitak/zum-nodes-parser.git"
+  },
+  "author": "Jan Zaloudek",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "3ebcdcd1ec1d49c114c177745af9d839ebe9ba94",
+  "dependencies": {
+    "cheerio": "~0.13.1",
+    "commander": "~2.2.0"
+  }
+}
