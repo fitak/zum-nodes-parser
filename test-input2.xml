@@ -5,7 +5,12 @@
         <Edge fromId="0" toId="8810" length="0.07158354732086207" />
         <Edge fromId="0" toId="4739" length="0.11071461431446344" />
         <Edge fromId="0" toId="6255" length="0.11232580038839102" />
-    </Node>    
-  </Nodes>
+    </Node>
 
-  <A>Pokus</A>
+    <Node id="1" name="" x="0.13227525975661064" y="0.5234442241291377" radius="0">
+        <Edge fromId="0" toId="3224" length="0.06478646468754722" />
+        <Edge fromId="0" toId="8810" length="0.07158354732086207" />
+        <Edge fromId="0" toId="4739" length="0.11071461431446344" />
+        <Edge fromId="0" toId="6255" length="0.11232580038839102" />
+    </Node>        
+  </Nodes>
