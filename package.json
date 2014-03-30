@@ -1,6 +1,6 @@
 {
   "name": "zum-nodes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Parse nodes/edges for ZUMScore",
   "main": "main.js",
   "scripts": {
