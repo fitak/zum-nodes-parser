@@ -8,7 +8,7 @@ var Parser = require('./parser');
 commander
   .version(package.version)
   .usage('[options] <file ...>')
-  .option('-p, --pedantic', 'Pedantic mode is checking for inconsistency in map', true)
+  //.option('-p, --pedantic', 'Pedantic mode is checking for inconsistency in map', true)
   .option('-f, --foreign-keys', 'Disable foreign keys')
   .option('-l, --leave-content', 'Does not truncate tables')
   .parse(process.argv);
